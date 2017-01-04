@@ -1,0 +1,25 @@
+{
+  "name": "whoami",
+  "version": "1.0.0",
+  "description": "freeCodeCamp Request Header Parser Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tchaffee/fcc-whoami.git"
+  },
+  "keywords": [
+    "freeCodeCamp"
+  ],
+  "author": "Todd Chaffee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tchaffee/fcc-whoami/issues"
+  },
+  "homepage": "https://github.com/tchaffee/fcc-whoami#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
